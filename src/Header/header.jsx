@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header() {
     return (
         <div>
-            <header className='border-b-[1px] text-grey p-[5px] pl-[60px] pr-[60px]'>
+            <header className='border-b-[0.5px] text-grey p-[5px] pl-[60px] pr-[60px]'>
                 <div className='flex justify-evenly items-center'>
                     <img src="photo_5420086850690863135_y.jpg" alt="" className='h-[10px] width=[50px]' />
                     <p className='text-5 text-grey' >Բաժիններ</p>
