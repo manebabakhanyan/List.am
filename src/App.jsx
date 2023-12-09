@@ -1,13 +1,9 @@
 import './App.css';
-
+import Header from './Header/header';
 function App() {
   return (
     <div>
-      <header>
-        <div className='border-[1px]'>
-          <img src="https://www.list.am/img/p.png" alt="" className='h-[40px]'/>
-        </div>
-      </header>
+      <Header />
     </div>
   );
 }
