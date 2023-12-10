@@ -4,6 +4,7 @@ import Header from './Header/header';
 import Main from './Main/main';
 import BiznesEjer from './Biznes Ejer/biznesEjer';
 import TneriVacharq from './Tneri vacharq/tneriVacharq';
+import ShinarakakanEvCanRTexnika from './Shinararakan ev canr texnika/shinarakakanEvCanRTexnika';
 function App() {
   return (
     <div>
@@ -11,6 +12,7 @@ function App() {
       <Main />
       <BiznesEjer />
       <TneriVacharq />
+      <ShinarakakanEvCanRTexnika />
     </div>
   );
 }
