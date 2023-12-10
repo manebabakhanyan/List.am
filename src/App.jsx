@@ -5,6 +5,7 @@ import Main from './Main/main';
 import BiznesEjer from './Biznes Ejer/biznesEjer';
 import TneriVacharq from './Tneri vacharq/tneriVacharq';
 import ShinarakakanEvCanRTexnika from './Shinararakan ev canr texnika/shinarakakanEvCanRTexnika';
+import BnakaranneriVacharq from './Bnakaranneri vacharq/bnakaranneriVacharq';
 function App() {
   return (
     <div>
@@ -13,6 +14,7 @@ function App() {
       <BiznesEjer />
       <TneriVacharq />
       <ShinarakakanEvCanRTexnika />
+      <BnakaranneriVacharq />
     </div>
   );
 }
