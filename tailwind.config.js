@@ -17,6 +17,7 @@ module.exports = {
       gray:'#7f7f7f',
       brown:'#ae3f1d',
       blue3:'#009dcf',
+      lightgray:'#f6f6f6'
     },
     fontSize: {
       '5': '5px',

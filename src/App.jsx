@@ -7,6 +7,7 @@ import TneriVacharq from './Tneri vacharq/tneriVacharq';
 import ShinarakakanEvCanRTexnika from './Shinararakan ev canr texnika/shinarakakanEvCanRTexnika';
 import BnakaranneriVacharq from './Bnakaranneri vacharq/bnakaranneriVacharq';
 import Elektronika from './Elektronika/elektronika';
+import Footer from './Footer/footer';
 function App() {
   return (
     <div>
@@ -17,6 +18,7 @@ function App() {
       <ShinarakakanEvCanRTexnika />
       <BnakaranneriVacharq />
       <Elektronika />
+      <Footer />
     </div>
   );
 }
